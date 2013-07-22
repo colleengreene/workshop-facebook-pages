@@ -1,0 +1,20 @@
+Exercise: Woobox HTML Fangate Tab 1
+Facebook Page Google Map
+Social Media Toolbox for Nonprofits
+CSUF Summer School for Nonprofits 2013
+Course Guide: URL: http://libraryguides.fullerton.edu/nonprofits-facebook
+Course Exercises: http://bit.ly/2013-nonprofits-social-media
+
+Colleen Greene, MLIS
+Systems Librarian & Communications Coordinator, Pollak Library, CSUF
+www.colleengreene.com | @colleengreene
+
+
+
+<!--Copy and paste the code below into HTML Source box.-->
+
+
+
+<p>Visit our historic sites! Click on a marker to get more information about a particular landmark.<p>
+
+<iframe width="810" height="550" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?ie=UTF8&amp;t=m&amp;oe=UTF8&amp;msa=0&amp;msid=205710850252386003057.00046b277dfa2d0212e58&amp;ll=43.189408,-77.596092&amp;spn=0.137673,0.277748&amp;z=12&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?ie=UTF8&amp;t=m&amp;oe=UTF8&amp;msa=0&amp;msid=205710850252386003057.00046b277dfa2d0212e58&amp;ll=43.189408,-77.596092&amp;spn=0.137673,0.277748&amp;z=12&amp;source=embed" style="color:#0000FF;text-align:left">Falcon landmarks Rochester NY</a> in a larger map</small>
